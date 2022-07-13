@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, everyone! 👋
+
+I'm **Janan**.
+
+- 🔭 I’m currently a sophomore student.
+- 🌱 I’m am interested in AI, Math, Economics and Cryptography.
+- 👯 I’m currently learning web3.0 and web dev.
+
+I want to:
+* **Build things interests me and impact people.**
+* **Code for freedom and justice.**
+
 
 <!--
-**Jananzzzz/Jananzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+test github-flavored markdown
 -->
+
