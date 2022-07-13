@@ -10,8 +10,12 @@ I want to:
 * **Build things interests me and impacts people.**
 * **Code for freedom and justice.**
 
+Also find me at:
+
+[Janan's Homepage](Janan.notelet.so)
 
 <!--
 test github-flavored markdown
 -->
+
 
