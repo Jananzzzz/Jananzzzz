@@ -12,7 +12,7 @@ I want to:
 
 Also find me at:
 
-[Janan's Homepage](Janan.notelet.so)
+[Janan's Homepage](https://janan.notelet.so)
 
 <!--
 test github-flavored markdown
