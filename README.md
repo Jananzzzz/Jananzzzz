@@ -7,7 +7,7 @@ I'm **Janan**.
 - 👯 I’m currently learning web3.0 and web dev.
 
 I want to:
-* **Build things interests me and impact people.**
+* **Build things interests me and impacts people.**
 * **Code for freedom and justice.**
 
 
