@@ -2,7 +2,7 @@
 
 I'm **Janan**.
 
-- 🔭 I’m currently a sophomore.
+- 🔭 I’m currently a junior.
 - 🌱 I’m am interested in AI, Math, Economics and Cryptography.
 - 👯 I’m currently learning web3.0 and web dev.
 
